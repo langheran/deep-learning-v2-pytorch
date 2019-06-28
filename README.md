@@ -1,6 +1,6 @@
 # Prologue
 
-This course was sugested to us by Cuauhtémoc Suárez the second day of the _Workshop Video Recognition & Deep Learning 2019_ held at _Tecnológico de Monterrey (CEM)_ on 28th of June 2019. I wish to thank him for his superb explanation of this tutorial.
+This course was sugested to us by Cuauhtémoc Suárez (@CuauLuzbel) the second day of the _Workshop Video Recognition & Deep Learning 2019_ held at _Tecnológico de Monterrey (CEM)_ on 28th of June 2019. I wish to thank him for his superb explanation of this tutorial.
 
 
 # Deep Learning (PyTorch)
