@@ -1,3 +1,8 @@
+# Prologue
+
+This course was sugested to us by Cuauhtémoc Suárez the second day of the _Workshop Video Recognition & Deep Learning 2019_ held at _Tecnológico de Monterrey (CEM)_ on 28th of June 2019. I wish to thank him for his superb explanation of this tutorial.
+
+
 # Deep Learning (PyTorch)
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
